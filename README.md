@@ -1,4 +1,4 @@
-### Hi there thanks for dropping by 👋
+### Hi there, thanks for dropping by! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrbena.mrbena&left_color=green&right_color=red)
 
