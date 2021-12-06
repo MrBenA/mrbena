@@ -3,9 +3,13 @@
 🌱 I'm a flourishing Data Engineer with a passion for wranglng and provisioning data in the cloud.
 Amongst these repositories you'll find projects leveraging open source technologies, Python and SQL to build data models and ETL / ELT pipelines.
 
+Day-to-day I create 3D digital representations of buildings, loaded with data, leveraged for the design, construction and operational phases.
+
 I'm currently committed to aquiring GCP Associate Cloud Engineer and Professional Data Engineer certifications. Keep an eye my LinkedIn for progress.
 
 I'm currently working on an analysis dashboard for Fantasy Premier League (FPL), in the hope I can make much better informed decisions than i have been! 😄
+
+Do reach out if can assist you with anything?
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrbena.mrbena&left_color=green&right_color=red)
