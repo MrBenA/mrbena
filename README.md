@@ -5,7 +5,7 @@ Amongst these repositories you'll find projects leveraging open source technolog
 
 I'm currently committed to aquiring GCP Associate Cloud Engineer and Professional Data Engineer certifications. Keep an eye my LinkedIn for progress.
 
-I'm currently working on an analysis dashboard for Fantasy Premier League (FPL), in the hope I can make much more informed decisions than i have been! 😄
+I'm currently working on an analysis dashboard for Fantasy Premier League (FPL), in the hope I can make much better informed decisions than i have been! 😄
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrbena.mrbena&left_color=green&right_color=red)
