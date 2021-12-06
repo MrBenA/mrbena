@@ -9,7 +9,7 @@ I'm currently committed to aquiring GCP Associate Cloud Engineer and Professiona
 
 I'm currently working on an analysis dashboard for Fantasy Premier League (FPL), in the hope I can make much better informed decisions than i have been! 😄
 
-Do reach out if can assist you with anything?
+Do reach out if I can assist you with anything?
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrbena.mrbena&left_color=green&right_color=red)
